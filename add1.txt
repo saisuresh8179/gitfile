@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 develoeprs1 working on add1 function
+=======
+develoeper2 is working on add2 fucntiuon`:wq!
+>>>>>>> de2a03c (dev2 working on add1.txt file for add2 fucntio)
